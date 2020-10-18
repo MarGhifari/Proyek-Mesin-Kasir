@@ -1,7 +1,7 @@
 # Proyek-Mesin-Kasir
 Mesin Kasir PBO
 
-Member:
+Author:
 - Sabrina Benita (191401006)
 - Iftitah Maghfirah Kesuma P. (191401045)
 - Rolando Febrianto (191401051)
